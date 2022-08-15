@@ -1,4 +1,4 @@
-### Here's a thing about me, 👋
+### Here's a thing about me 👋
 
 To get you started:
 
@@ -7,4 +7,4 @@ To get you started:
 - 💬 Ask me ... anything
 - 😄 Pronouns: ...He / Him
 - ⚡ Fun fact: ... Nah
--  📫 How to reach me: ...[Linkedin](www.linkedin.com/in/murxli)
+-  📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/murxli)
