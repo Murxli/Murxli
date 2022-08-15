@@ -8,4 +8,3 @@ To get you started:
 - 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/muralikrishna-s-a90552200)
 - 😄 Pronouns: ...He / Him
 - ⚡ Fun fact: ... Nah
--->
