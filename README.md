@@ -1,4 +1,4 @@
-### Here's a thing about me 👋
+### Here's a thing about me, 👋
 
 To get you started:
 
@@ -8,3 +8,4 @@ To get you started:
 - 📫 How to reach me: ...[Linkedin](www.linkedin.com/in/murxli)
 - 😄 Pronouns: ...He / Him
 - ⚡ Fun fact: ... Nah
+- 
