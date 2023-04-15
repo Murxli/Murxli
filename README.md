@@ -20,7 +20,7 @@
 <h3 align="left">Statistics:</h3>
 <div display:'flex' align-items:'center'>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=murxli&show_icons=true&locale=en" alt="murxli" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murxli&show_icons=true&locale=en&layout=compact" alt="murxli" /></p>
+  <p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murxli&show_icons=true&locale=en&layout=compact" alt="murxli" /></p>
 </div>
 <br>
 <p margin='4px'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murxli&" alt="murxli" /></p>
