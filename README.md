@@ -22,4 +22,4 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murxli&show_icons=true&locale=en&layout=compact" alt="murxli" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murxli&" alt="murxli" /></p>
+<p margin='4px'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murxli&" alt="murxli" /></p>
