@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muralikrishna</h1>
 <h3 align="center">An enthusiastic developer</h3>
-<img align="right" alt="Coding" width="500" src="https://preview.redd.it/05uhd2ihjs671.gif">
+<img align="right" alt="Coding" width="500" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
 
 - 🌱 I’m currently learning **Data Analytics**
 
